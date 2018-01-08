@@ -1,4 +1,4 @@
-# schorr
+# schnorr
 
 Schnorr signatures for javascript.
 
